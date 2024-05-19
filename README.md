@@ -1,20 +1,20 @@
 # gletfig
 
-[![Package Version](https://img.shields.io/hexpm/v/figlet)](https://hex.pm/packages/figlet)
-[![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/figlet/)
+[![Package Version](https://img.shields.io/hexpm/v/gletfig)](https://hex.pm/packages/gletfig)
+[![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/gletfig/)
 
 ```sh
-gleam add figlet
+gleam add gletfig
 ```
 ```gleam
-import figlet
+import gletfig
 
 pub fn main() {
   // TODO: An example of the project in use
 }
 ```
 
-Further documentation can be found at <https://hexdocs.pm/figlet>.
+Further documentation can be found at <https://hexdocs.pm/gletfig>.
 
 ## Development
 
